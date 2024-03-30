@@ -336,7 +336,7 @@ img{
 @media (min-width: 768px) {
     .newsletter{
     background-image: linear-gradient(to right, transparent 50%, var( --blanco)0%), url(img/imagen-mujer.jpg);
-    background-position:center center;
+    background-position:top left;
     background-size: 100%, 100rem;
     padding: 10rem 0;
 }
