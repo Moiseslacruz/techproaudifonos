@@ -369,7 +369,7 @@ img{
     }
 }
 
-.formulario input[type="text"]{
+.formulario input[type="email"]{
   width: 100%;
   padding: 1rem;
 }
